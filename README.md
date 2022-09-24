@@ -29,5 +29,5 @@ The code requires python 3.x.x to run.
 4. For conda users: install dependencies with `conda install --yes --file requirements.txt`
 5. Implement the solution. Take a closer look at the doc strings for details of implementation.
 6. Run `pytest` to verify all the code is running.
-7. Run `python src/submit.py` (Notice: this will send your solution to our servers and grade your assignment.)
-8. 
+7. In root directory, run `python src/submit.py <your-email-address>` (Notice: this will send your solution to our servers and grade your assignment. You only have 3 attempts.)
+
