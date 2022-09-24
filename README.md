@@ -43,5 +43,5 @@ from command line or download the zip of the code from the same url.
 
 `python src/submit.py <your-email-address>` 
 
-(Notice: this will send your solution to our servers and grade your assignment. You only have 3 attempts.)
+(Notice: Step 7 command will send your solution to our servers for grading and informing HR. Make your tests are passing with pytest before sending your solution. You only have 3 attempts.)
 
