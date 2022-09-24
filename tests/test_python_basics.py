@@ -1,5 +1,5 @@
 import pytest
-from main import square_list
+from python_basics import square_list
 
 @pytest.fixture
 def arr():

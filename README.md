@@ -30,6 +30,7 @@ Do not modify the any other file in the repo when submitting the result.
 ## A note about grading
 Each question carry equal weight in terms of marks. Total marks is 100. For each failing test, 25 marks are deducted from the total. We expect you
 to get 75 marks to pass this stage.
+
 ## How to get started
 
 The code requires python 3.x.x to run.
