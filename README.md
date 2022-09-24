@@ -17,3 +17,17 @@ were correct. Do not modify the any other file in the repo when submitting the r
 The task is to write implementation of these two functions. Once 
 the implementation is done, use pytest to validate if your answers
 were correct. Do not modify the any other file in the repo when submitting the result.
+
+## How to get started
+
+The code requires python 3.x.x to run.
+
+1. Clone the repo by running `git clone https://github.com/zainulabidin302/python-assessment.git` from command line or download the zip of the code from the same url.
+
+2. (Optional) Create a `conda` or `virtualenv` and activate it.
+3. Install the requirements with `pip install -r requirements.txt`
+4. For conda users: install dependencies with `conda install --yes --file requirements.txt`
+5. Implement the solution. Take a closer look at the doc strings for details of implementation.
+6. Run `pytest` to verify all the code is running.
+7. Run `python src/submit.py` (Notice: this will send your solution to our servers and grade your assignment.)
+8. 
